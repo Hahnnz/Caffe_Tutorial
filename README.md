@@ -6,7 +6,7 @@ Caffe는 다양한 딥러닝 프레임워크들 중 하나로 버클리 인공�
 
 [해당 공식 사이트(이전 버전)](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Documentation-:-Caffe-Tutorial-(Kor)) 번역 또한 같이 첨부하였습니다.
 
-## [Caffe 튜토리얼](https://github.com/Hahnnz/CaffeTutorial/wiki)
+## [Caffe 튜토리얼](https://github.com/Hahnnz/Caffe_Tutorial/wiki)
 Caffe는 딥러닝 프레임워크로 이 튜토리얼은 딥러닝의 원리, 구성 그리고 사용법에 대해서 설명할 것입니다.
 해당 튜토리얼은 딥러닝의 전체적인 이로이나 맥락등 이론적인 내용은 다루지 않습니다.
 기계학습의 배경지식과 신경망등, 딥러닝 이론에 대해 미리 숙지하고 참고하시면 도움이될 것입니다!
