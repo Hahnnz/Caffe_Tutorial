@@ -13,8 +13,9 @@ Caffe는 딥러닝 프레임워크로 이 튜토리얼은 Caffe의 원리, 구�
 
 기계학습의 배경지식과 신경망등, 딥러닝 이론에 대해 미리 숙지하고 참고하시면 도움이될 것입니다!
 
- - 0. [Caffe 설치 하기](https://github.com/Hahnnz/Caffe_Tutorial/wiki/0.-Caffe-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95)
- - 1. [Caffe 체험](https://github.com/Hahnnz/Caffe_Tutorial/wiki/1.-Caffe-%EC%B2%B4%ED%97%98%ED%95%B4%EB%B3%B4%EA%B8%B0)
+ - [0. Caffe 설치 하기](https://github.com/Hahnnz/Caffe_Tutorial/wiki/0.-Caffe-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95)
+ 
+ - [1. Caffe 체험해보기](https://github.com/Hahnnz/Caffe_Tutorial/wiki/1.-Caffe-%EC%B2%B4%ED%97%98%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 ## 커스텀 배포판
 Caffe는 Intel에서 다중 노드를 지원해주고 CPU(특히 제논 프로세서 (HSW, BDW, SKX, Xeon Phi))에 좀 더 최적화된 Caffe를 만들어 배포하고 있으며 Window에서도 사용이 가능한 Caffe 등등을 배포하고 있습니다.
