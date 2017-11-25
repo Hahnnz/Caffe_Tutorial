@@ -1,4 +1,4 @@
-# Caffe
+# Caffe : Convolutional Architecture for Fast Feature Embedding
 
 Caffe는 다양한 딥러닝 프레임워크들 중 하나로 버클리 인공지능 연구소 (Berkeley AI Research([BAIR](http://bair.berkeley.edu)))/ 버클리 비전 & 학습 센터 (The Berkeley Vision and Learning Center (BVLC)), 그리고 Caffe 커뮤니티의 수많은 기여자들에의해 개발된 것입니다.
 
