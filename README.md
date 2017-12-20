@@ -34,10 +34,10 @@ Caffe는 딥러닝 프레임워크로 이 튜토리얼은 Caffe의 원리, 구�
 
 1.	[Nets, layers, Bolbs](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-1.Blobs,-Layers,-and-Nets-(Kor)) : ‘Caffe’ 모델의 분석
 2.	[Forward / Backward](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-2.Forward-and-Backward-(kor)) : 계층화로 구성된 모델의 필수적인 연산
-3.	[Loss](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-3.Loss-(Kor)) : 학습되어야할 업무(계층)를 손실로 정의한다.
-4.	[Solver] (https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-4.Solver-(Kor)) : 해결사는 모델 최적화를 수행해준다.
+3.	[Loss](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-3.Loss-(Kor)) : 학습되어야할 업무(계층)를 손실로 정의합니다.
+4.	[Solver] (https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-4.Solver-(Kor)) : Solver는 모델 최적화를 수행해줍니다.
 5.	[Layer Catalogue](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-5.Layer-Catalogue-(Kor)) : 계층은 최신모델에 대한 계층을 포함하는 ‘Caffe’ 카탈로그인 모델링과 연산의 기본단위
-6.	[Interfaces](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-6.Interface-(Kor)) : 커맨드 라인, Python, Matlab Caffe를 사용한다.
+6.	[Interfaces](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-6.Interface-(Kor)) : 커맨드 라인, Python, Matlab Caffe를 사용.
 7.	[Data](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-7.Data-(Kor)) : 모델 입력에 대하여 어떻게 caffe화를 할 것인가
 8.	[Caffeinated Convolution](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-8.Caffeinated-Convolution-(Kor)) : 어떻게 Caffe가 컨볼루션을 계산할까 (심화내용)
 
