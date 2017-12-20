@@ -92,7 +92,8 @@ CIFAR-10 데이터 세트는 여전히 그 세트의 크기가 작지만 GPU를 
 CPU와 GPU의 학습 속도를 비교하기 위해서는 `cifar*solver.prototxt`에 있는 한줄만 바꾸어주면 됩니다.
 
     # solver mode: CPU or GPU
-    solver_mode: CPU
+    solver_mode: CPU
+    
     
 이렇게 설정하면 CPU를 사용할 수 있습니다.
 
